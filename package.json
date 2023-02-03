@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-website-react",
+  "name": "devlog-react",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/y36jung/portfolio-website-react.git"
+    "url": "git+https://github.com/y36jung/devlog-react.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/y36jung/portfolio-website-react/issues"
+    "url": "https://github.com/y36jung/devlog-react/issues"
   },
-  "homepage": "https://github.com/y36jung/portfolio-website-react#readme",
+  "homepage": "https://github.com/y36jung/devlog-react#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -24,6 +24,6 @@
     "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
-    "cypress": "^12.5.0"
+    "cypress": "^12.5.1"
   }
 }
